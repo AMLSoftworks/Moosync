@@ -1,5 +1,5 @@
 /* 
- *  jest.config.ts is a part of Moosync.
+ *  jest.config.ts is a part of Moosync..
  *  
  *  Copyright 2022 by Sahil Gupte <sahilsachingupte@gmail.com>. All rights reserved.
  *  Licensed under the GNU General Public License. 
